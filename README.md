@@ -1,0 +1,2 @@
+# Techmind
+Homework with Git
